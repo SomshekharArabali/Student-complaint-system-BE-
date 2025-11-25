@@ -72,3 +72,24 @@ This system is designed to streamline the complaint management process within an
 *   **Quick Actions**: Access frequently used administrative tasks from a centralized panel.
 
 This system aims to foster a more responsive and accountable environment for addressing community concerns.
+
+
+## Preview 
+
+### Login Page 
+<img 
+  src="https://github.com/user-attachments/assets/38af927c-617c-45d5-a207-80383d701f2d"
+  width="800"
+/>
+
+### Home 
+<img 
+  src="https://github.com/user-attachments/assets/e61d2b5b-a363-4cbf-8d4a-90f3b6adf2b2"
+  width="800"
+/>
+
+### Complaint Submission 
+<img 
+  src="https://github.com/user-attachments/assets/d4846a0f-dfd8-499a-9157-3c26732e59a0"
+  width="800"
+/>
